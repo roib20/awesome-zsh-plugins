@@ -66,12 +66,13 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [ztupide](#ztupide)
   - [zulu](#zulu)
 - [Setups](#setups)
+  - [Oh-My-Zsh](#oh-my-zsh-1)
   - [zgenom](#zgenom-1)
   - [zinit](#zinit-1)
 - [Tutorials](#tutorials)
   - [Generic ZSH](#generic-zsh)
   - [Antigen](#antigen-1)
-  - [Oh-My-Zsh](#oh-my-zsh-1)
+  - [Oh-My-Zsh](#oh-my-zsh-2)
   - [Prezto](#prezto-1)
   - [Zgen](#zgen-1)
   - [Zinit (né zplugin)](#zinit-n%C3%A9-zplugin)
@@ -84,7 +85,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 - [Installation](#installation)
   - [Antigen](#antigen-2)
   - [dotzsh](#dotzsh-1)
-  - [Oh-My-Zsh](#oh-my-zsh-2)
+  - [Oh-My-Zsh](#oh-my-zsh-3)
   - [Prezto](#prezto-2)
   - [Zgen](#zgen-2)
   - [Zgenom](#zgenom-2)
@@ -404,6 +405,10 @@ A simple and fast ZSH plugin manager. It uses `zcompile` and async loading to sp
 ## Setups
 
 This section is for full setup dropins - they aren't frameworks, but they're not simple plugins/themes either.
+
+### Oh-My-Zsh
+
+- [ansible-role-oh-my-zsh](https://github.com/gantsign/ansible-role-oh-my-zsh) - Ansible role to download, install and configure [Oh-My-Zsh](https://ohmyz.sh/).
 
 ### zgenom
 
